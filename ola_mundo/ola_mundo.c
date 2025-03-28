@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(int argc, char* argv[]){
-    printf("Hello, world!");
-
+    // Regras do programa
+    printf("Hello, World!");
     return 0;
 }
