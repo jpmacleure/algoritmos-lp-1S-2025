@@ -29,3 +29,26 @@ int maior_n(int numeros[], int n){
     }
     return maior;
 }
+
+/*
+    Verifica se um dado número é primo (1) ou não (0)
+*/
+int verificar_numero_primo(int n){
+
+    if(n < 2){
+        return 0;
+    }
+
+    if((n % 2 == 0) && (n != 2)){
+        return 0;
+    }
+
+    for(int i = 3; i < n; i += 2){
+        if(n % i == 0){
+            return 0;
+        }
+    }
+
+    return 1;
+
+}
