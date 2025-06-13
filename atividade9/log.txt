@@ -1,0 +1,32 @@
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=5
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=2
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=5
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=5
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=6
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=6
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=6
+sorteado
+minimo=1 maximo=6 esperado=3 sorteado=3
+sorteado
+minimo=1 maximo=6 esperado=3 sorteado=3
+sorteado
+minimo=1 maximo=6 esperado=3 sorteado=3
+sorteado
+minimo=1 maximo=6 esperado=3 sorteado=3
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=6
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=6
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=6
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=4
+nao sorteado
+minimo=1 maximo=6 esperado=3 sorteado=4
